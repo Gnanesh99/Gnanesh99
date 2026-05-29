@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python full-stack projects using Flask and MySQL.<br>👯 I’m looking to collaborate on backend development, data-driven applications, and impactful tech projects.<br>🤝 I’m looking for help with advanced backend architecture and scalable system design.<br>🌱 I’m currently learning Python OOP, backend development, and data science fundamentals.<br>💬 Ask me about Python, Flask, backend development, and tech project building.<br>⚡ Fun fact: I enjoy turning ideas into real working products and leading tech initiatives. 🚀
+🔭 I’m currently working on Python full-stack projects using Flask,Django, and PostgreSQL.<br>👯 I’m looking to collaborate on backend development, data-driven applications, and impactful tech projects.<br>🤝 I’m looking for help with advanced backend architecture and scalable system design.<br>🌱 I’m currently learning Python OOP, backend development, and data science fundamentals.<br>💬 Ask me about Python, Flask, backend development, and tech project building.<br>⚡ Fun fact: I enjoy turning ideas into real working products and leading tech initiatives. 🚀
 
 
 ## 🌐 Socials:
